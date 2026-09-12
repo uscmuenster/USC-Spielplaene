@@ -4,12 +4,13 @@ PRODID:-//calovo//Calendar Publishing 1.14
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-MICROSOFT-CALSCALE:GREGORIAN
-X-WR-CALNAME:SC Preußen Münster
+X-WR-CALNAME:SC Preußen Münster · calovo
 X-WR-CALDESC:Alle 2. Bundesliga-Spieltermine von SC Preußen Münster immer
   aktuell im Kalender.
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-RELCALID:7dc6da48.a8ea1dd5@7477.calovo.com
 X-PUBLISHED-TTL:PT30M
+X-APPLE-CALENDAR-COLOR:#337AB7
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 X-LIC-LOCATION:Europe/Berlin
