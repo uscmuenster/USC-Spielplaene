@@ -136,7 +136,7 @@ Die Skripte können unabhängig voneinander laufen. Nach jeder Ausführung die e
 
 ## Veröffentlichung über GitHub Pages
 
-- GitHub Pages liefert den Inhalt von `docs/` unter <https://uscmuenster.github.io/USC-Spielplaene2526> aus.
+- GitHub Pages liefert den Inhalt von `docs/` unter <https://uscmuenster.github.io/USC-Spielplaene> aus.
 - Nach lokalen Änderungen: Artefakte generieren, committen und pushen. GitHub Pages veröffentlicht automatisch die aktuelle Version des `docs/`-Verzeichnisses.
 - Für Vorschauen kann eine lokale HTTP-Server-Instanz im `docs/`-Ordner gestartet werden (`python -m http.server`), um Layoutänderungen zu kontrollieren.
 
