@@ -36,4 +36,4 @@ jobs:
           git config user.email "actions@github.com"
           git add docs/spielplan.csv
           git commit -m "📅 CSV-Aktualisierung" || echo "nichts zu committen"
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/uscmuenster/USC-Spielplaene2526.git
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/uscmuenster/USC-Spielplaene.git
