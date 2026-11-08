@@ -29,30 +29,6 @@ RRULE:FREQ=YEARLY;INTERVAL=1;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:685e8d65151df@7477.calovo
-DTSTART;TZID=Europe/Berlin:20251107T183000
-SEQUENCE:0
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-DTEND;TZID=Europe/Berlin:20251107T203000
-LOCATION:Sportpark Ronhof | Thomas Sommer
-SUMMARY:SpVgg Greuther Fürth - SC Preußen Münster | 2. Bundesliga | 12. 
- Spieltag
-DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
- n\n12. Spieltag\n\n\n\n\nAnbieter-Impressum: https://www.bundesliga.com/de
- /bundesliga/info/impressum/\n\n\ncalovo Kalender entfernen? Anleitung: cal
- ovo.de/kalender-entfernen
-DTSTAMP:20251107T160141Z
-CREATED:20250627T122405Z
-LAST-MODIFIED:20251107T160141Z
-BEGIN:VALARM
-TRIGGER:-P0DT1H0M0S
-ACTION:DISPLAY
-DESCRIPTION:Reminder: SpVgg Greuther Fürth - SC Preußen Münster | 2. Bun
- desliga | 12. Spieltag
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:685e8d7405016@7477.calovo
 DTSTART;TZID=Europe/Berlin:20251122T130000
 SEQUENCE:0
