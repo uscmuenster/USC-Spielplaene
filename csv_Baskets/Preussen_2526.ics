@@ -870,9 +870,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  n\n\n\nTSG Hoffenheim II vs. SC Preußen Münster\n\n\n\n\nAnbieter-Impres
  sum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo 
  Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
-DTSTAMP:20261110T160150Z
+DTSTAMP:20261111T163853Z
 CREATED:20260708T150248Z
-LAST-MODIFIED:20261110T160150Z
+LAST-MODIFIED:20261111T163853Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -892,9 +892,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  n\n\n\nSC Preußen Münster vs. SC Verl\n\n\n\n\nAnbieter-Impressum: https
  ://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender e
  ntfernen? Anleitung: calovo.de/kalender-entfernen
-DTSTAMP:20261110T160156Z
+DTSTAMP:20261111T163902Z
 CREATED:20260708T150252Z
-LAST-MODIFIED:20261110T160156Z
+LAST-MODIFIED:20261111T163902Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -916,9 +916,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  : https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kal
  ender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160203Z
+DTSTAMP:20261111T163913Z
 CREATED:20260708T150257Z
-LAST-MODIFIED:20261110T160203Z
+LAST-MODIFIED:20261111T163913Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -941,9 +941,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender entf
  ernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160210Z
+DTSTAMP:20261111T163920Z
 CREATED:20260708T150301Z
-LAST-MODIFIED:20261110T160210Z
+LAST-MODIFIED:20261111T163920Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -965,9 +965,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
   https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kale
  nder entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160216Z
+DTSTAMP:20261111T163927Z
 CREATED:20260708T150307Z
-LAST-MODIFIED:20261110T160216Z
+LAST-MODIFIED:20261111T163927Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -989,9 +989,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  sum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo 
  Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160225Z
+DTSTAMP:20261111T163938Z
 CREATED:20260708T150317Z
-LAST-MODIFIED:20261110T160225Z
+LAST-MODIFIED:20261111T163938Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1014,9 +1014,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
   https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kale
  nder entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160231Z
+DTSTAMP:20261111T163944Z
 CREATED:20260708T150321Z
-LAST-MODIFIED:20261110T160231Z
+LAST-MODIFIED:20261111T163944Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1038,9 +1038,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  ttps://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalend
  er entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160237Z
+DTSTAMP:20261111T163953Z
 CREATED:20260708T150325Z
-LAST-MODIFIED:20261110T160237Z
+LAST-MODIFIED:20261111T163953Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1062,9 +1062,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalen
  der entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160241Z
+DTSTAMP:20261111T163959Z
 CREATED:20260708T150330Z
-LAST-MODIFIED:20261110T160241Z
+LAST-MODIFIED:20261111T163959Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1086,9 +1086,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  //www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender en
  tfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160245Z
+DTSTAMP:20261111T164008Z
 CREATED:20260708T150334Z
-LAST-MODIFIED:20261110T160245Z
+LAST-MODIFIED:20261111T164008Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1110,9 +1110,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  ttps://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalend
  er entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160250Z
+DTSTAMP:20261111T164017Z
 CREATED:20260708T150339Z
-LAST-MODIFIED:20261110T160250Z
+LAST-MODIFIED:20261111T164017Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1134,9 +1134,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
   https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kale
  nder entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160255Z
+DTSTAMP:20261111T164025Z
 CREATED:20260708T150344Z
-LAST-MODIFIED:20261110T160255Z
+LAST-MODIFIED:20261111T164025Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1158,9 +1158,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  : https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kal
  ender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160301Z
+DTSTAMP:20261111T164031Z
 CREATED:20260708T150348Z
-LAST-MODIFIED:20261110T160301Z
+LAST-MODIFIED:20261111T164031Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1183,9 +1183,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  tps://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalende
  r entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160306Z
+DTSTAMP:20261111T164037Z
 CREATED:20260708T150352Z
-LAST-MODIFIED:20261110T160306Z
+LAST-MODIFIED:20261111T164037Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1207,9 +1207,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  : https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kal
  ender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160311Z
+DTSTAMP:20261111T164045Z
 CREATED:20260708T150357Z
-LAST-MODIFIED:20261110T160311Z
+LAST-MODIFIED:20261111T164045Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1232,9 +1232,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  essum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalov
  o Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160313Z
+DTSTAMP:20261111T164047Z
 CREATED:20260708T150358Z
-LAST-MODIFIED:20261110T160313Z
+LAST-MODIFIED:20261111T164047Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1257,9 +1257,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  s://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender 
  entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160319Z
+DTSTAMP:20261111T164055Z
 CREATED:20260708T150405Z
-LAST-MODIFIED:20261110T160319Z
+LAST-MODIFIED:20261111T164055Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1281,9 +1281,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  ttps://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalend
  er entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160324Z
+DTSTAMP:20261111T164103Z
 CREATED:20260708T150410Z
-LAST-MODIFIED:20261110T160324Z
+LAST-MODIFIED:20261111T164103Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1305,9 +1305,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  ://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender e
  ntfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160330Z
+DTSTAMP:20261111T164111Z
 CREATED:20260708T150414Z
-LAST-MODIFIED:20261110T160330Z
+LAST-MODIFIED:20261111T164111Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1329,9 +1329,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalen
  der entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160336Z
+DTSTAMP:20261111T164118Z
 CREATED:20260708T150419Z
-LAST-MODIFIED:20261110T160336Z
+LAST-MODIFIED:20261111T164118Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1353,9 +1353,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  w.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender entfer
  nen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160340Z
+DTSTAMP:20261111T164124Z
 CREATED:20260708T150424Z
-LAST-MODIFIED:20261110T160340Z
+LAST-MODIFIED:20261111T164124Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1377,9 +1377,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  : https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kal
  ender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160341Z
+DTSTAMP:20261111T164126Z
 CREATED:20260708T150425Z
-LAST-MODIFIED:20261110T160341Z
+LAST-MODIFIED:20261111T164126Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1402,9 +1402,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender entf
  ernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160346Z
+DTSTAMP:20261111T164133Z
 CREATED:20260708T150431Z
-LAST-MODIFIED:20261110T160346Z
+LAST-MODIFIED:20261111T164133Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1426,9 +1426,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
   https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kale
  nder entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160350Z
+DTSTAMP:20261111T164139Z
 CREATED:20260708T150435Z
-LAST-MODIFIED:20261110T160350Z
+LAST-MODIFIED:20261111T164139Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1450,9 +1450,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  sum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo 
  Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261110T160352Z
+DTSTAMP:20261111T164144Z
 CREATED:20260708T150439Z
-LAST-MODIFIED:20261110T160352Z
+LAST-MODIFIED:20261111T164144Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
