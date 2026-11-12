@@ -870,9 +870,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  n\n\n\nTSG Hoffenheim II vs. SC Preußen Münster\n\n\n\n\nAnbieter-Impres
  sum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo 
  Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
-DTSTAMP:20261111T163853Z
+DTSTAMP:20261112T150232Z
 CREATED:20260708T150248Z
-LAST-MODIFIED:20261111T163853Z
+LAST-MODIFIED:20261112T150232Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -892,9 +892,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  n\n\n\nSC Preußen Münster vs. SC Verl\n\n\n\n\nAnbieter-Impressum: https
  ://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender e
  ntfernen? Anleitung: calovo.de/kalender-entfernen
-DTSTAMP:20261111T163902Z
+DTSTAMP:20261112T150238Z
 CREATED:20260708T150252Z
-LAST-MODIFIED:20261111T163902Z
+LAST-MODIFIED:20261112T150238Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -903,124 +903,113 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a4e66a14c986@7477.calovo
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=Europe/Berlin:20261206T133000
 SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTEND;VALUE=DATE:20261207
+DTEND;TZID=Europe/Berlin:20261206T153000
 LOCATION:Jahnstadion Regensburg
-SUMMARY:* SSV Jahn Regensburg - SC Preußen Münster | 3. Liga
+SUMMARY:SSV Jahn Regensburg - SC Preußen Münster | 3. Liga
 DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
- n\n\n\nSSV Jahn Regensburg vs. SC Preußen Münster\n\nAchtung: Der endgü
- ltige Spieltermin wurde noch nicht festgelegt.\n\n\n\n\nAnbieter-Impressum
- : https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kal
- ender entfernen? Anleitung: calovo.de/kalender-entfernen
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T163913Z
+ n\n\n\nSSV Jahn Regensburg vs. SC Preußen Münster\n\n\n\n\nAnbieter-Impr
+ essum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalov
+ o Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20261112T150503Z
 CREATED:20260708T150257Z
-LAST-MODIFIED:20261111T163913Z
+LAST-MODIFIED:20261112T150503Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
-DESCRIPTION:Reminder: * SSV Jahn Regensburg - SC Preußen Münster | 3. Lig
- a
+DESCRIPTION:Reminder: SSV Jahn Regensburg - SC Preußen Münster | 3. Liga
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a4e66a52c8df@7477.calovo
-DTSTART;VALUE=DATE:20261211
+DTSTART;TZID=Europe/Berlin:20261212T163000
 SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTEND;VALUE=DATE:20261214
+DTEND;TZID=Europe/Berlin:20261212T183000
 LOCATION:LVM-Preußenstadion
-SUMMARY:* SC Preußen Münster - SV Meppen | 3. Liga
+SUMMARY:SC Preußen Münster - SV Meppen | 3. Liga
 DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
- n\n\n\nSC Preußen Münster vs. SV Meppen\n\nAchtung: Der endgültige Spie
- ltermin wurde noch nicht festgelegt.\n\n\n\n\nAnbieter-Impressum: https://
- www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender entf
- ernen? Anleitung: calovo.de/kalender-entfernen
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T163920Z
+ n\n\n\nSC Preußen Münster vs. SV Meppen\n\n\n\n\nAnbieter-Impressum: htt
+ ps://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender
+  entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20261112T150504Z
 CREATED:20260708T150301Z
-LAST-MODIFIED:20261111T163920Z
+LAST-MODIFIED:20261112T150504Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
-DESCRIPTION:Reminder: * SC Preußen Münster - SV Meppen | 3. Liga
+DESCRIPTION:Reminder: SC Preußen Münster - SV Meppen | 3. Liga
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a4e66ab99955@7477.calovo
-DTSTART;VALUE=DATE:20261218
+DTSTART;TZID=Europe/Berlin:20261219T140000
 SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTEND;VALUE=DATE:20261221
+DTEND;TZID=Europe/Berlin:20261219T160000
 LOCATION:Ostseestadion
-SUMMARY:* F.C. Hansa Rostock - SC Preußen Münster | 3. Liga
+SUMMARY:F.C. Hansa Rostock - SC Preußen Münster | 3. Liga
 DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
- n\n\n\nF.C. Hansa Rostock vs. SC Preußen Münster\n\nAchtung: Der endgül
- tige Spieltermin wurde noch nicht festgelegt.\n\n\n\n\nAnbieter-Impressum:
-  https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kale
- nder entfernen? Anleitung: calovo.de/kalender-entfernen
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T163927Z
+ n\n\n\nF.C. Hansa Rostock vs. SC Preußen Münster\n\n\n\n\nAnbieter-Impre
+ ssum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo
+  Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20261112T150257Z
 CREATED:20260708T150307Z
-LAST-MODIFIED:20261111T163927Z
+LAST-MODIFIED:20261112T150257Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
-DESCRIPTION:Reminder: * F.C. Hansa Rostock - SC Preußen Münster | 3. Liga
+DESCRIPTION:Reminder: F.C. Hansa Rostock - SC Preußen Münster | 3. Liga
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a4e66b53a890@7477.calovo
-DTSTART;VALUE=DATE:20270115
+DTSTART;TZID=Europe/Berlin:20270116T140000
 SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTEND;VALUE=DATE:20270118
+DTEND;TZID=Europe/Berlin:20270116T160000
 LOCATION:LVM-Preußenstadion
-SUMMARY:* SC Preußen Münster - FC Würzburger Kickers | 3. Liga
+SUMMARY:SC Preußen Münster - FC Würzburger Kickers | 3. Liga
 DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
- n\n\n\nSC Preußen Münster vs. FC Würzburger Kickers\n\nAchtung: Der end
- gültige Spieltermin wurde noch nicht festgelegt.\n\n\n\n\nAnbieter-Impres
- sum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo 
- Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T163938Z
+ n\n\n\nSC Preußen Münster vs. FC Würzburger Kickers\n\n\n\n\nAnbieter-I
+ mpressum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\nca
+ lovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20261112T150309Z
 CREATED:20260708T150317Z
-LAST-MODIFIED:20261111T163938Z
+LAST-MODIFIED:20261112T150309Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
-DESCRIPTION:Reminder: * SC Preußen Münster - FC Würzburger Kickers | 3. 
- Liga
+DESCRIPTION:Reminder: SC Preußen Münster - FC Würzburger Kickers | 3. Li
+ ga
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a4e66b916959@7477.calovo
-DTSTART;VALUE=DATE:20270122
+DTSTART;TZID=Europe/Berlin:20270124T133000
 SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-DTEND;VALUE=DATE:20270125
+DTEND;TZID=Europe/Berlin:20270124T153000
 LOCATION:LVM-Preußenstadion
-SUMMARY:* SC Preußen Münster - SV Wehen Wiesbaden | 3. Liga
+SUMMARY:SC Preußen Münster - SV Wehen Wiesbaden | 3. Liga
 DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
- n\n\n\nSC Preußen Münster vs. SV Wehen Wiesbaden\n\nAchtung: Der endgül
- tige Spieltermin wurde noch nicht festgelegt.\n\n\n\n\nAnbieter-Impressum:
-  https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kale
- nder entfernen? Anleitung: calovo.de/kalender-entfernen
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T163944Z
+ n\n\n\nSC Preußen Münster vs. SV Wehen Wiesbaden\n\n\n\n\nAnbieter-Impre
+ ssum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo
+  Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20261112T150507Z
 CREATED:20260708T150321Z
-LAST-MODIFIED:20261111T163944Z
+LAST-MODIFIED:20261112T150507Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
-DESCRIPTION:Reminder: * SC Preußen Münster - SV Wehen Wiesbaden | 3. Liga
+DESCRIPTION:Reminder: SC Preußen Münster - SV Wehen Wiesbaden | 3. Liga
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -1038,9 +1027,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  ttps://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalend
  er entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T163953Z
+DTSTAMP:20261112T150321Z
 CREATED:20260708T150325Z
-LAST-MODIFIED:20261111T163953Z
+LAST-MODIFIED:20261112T150321Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1062,9 +1051,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalen
  der entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T163959Z
+DTSTAMP:20261112T150326Z
 CREATED:20260708T150330Z
-LAST-MODIFIED:20261111T163959Z
+LAST-MODIFIED:20261112T150326Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1086,9 +1075,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  //www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender en
  tfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164008Z
+DTSTAMP:20261112T150332Z
 CREATED:20260708T150334Z
-LAST-MODIFIED:20261111T164008Z
+LAST-MODIFIED:20261112T150332Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1110,9 +1099,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  ttps://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalend
  er entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164017Z
+DTSTAMP:20261112T150337Z
 CREATED:20260708T150339Z
-LAST-MODIFIED:20261111T164017Z
+LAST-MODIFIED:20261112T150337Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1134,9 +1123,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
   https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kale
  nder entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164025Z
+DTSTAMP:20261112T150343Z
 CREATED:20260708T150344Z
-LAST-MODIFIED:20261111T164025Z
+LAST-MODIFIED:20261112T150343Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1158,9 +1147,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  : https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kal
  ender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164031Z
+DTSTAMP:20261112T150347Z
 CREATED:20260708T150348Z
-LAST-MODIFIED:20261111T164031Z
+LAST-MODIFIED:20261112T150347Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1183,9 +1172,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  tps://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalende
  r entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164037Z
+DTSTAMP:20261112T150352Z
 CREATED:20260708T150352Z
-LAST-MODIFIED:20261111T164037Z
+LAST-MODIFIED:20261112T150352Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1207,9 +1196,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  : https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kal
  ender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164045Z
+DTSTAMP:20261112T150357Z
 CREATED:20260708T150357Z
-LAST-MODIFIED:20261111T164045Z
+LAST-MODIFIED:20261112T150357Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1232,9 +1221,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  essum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalov
  o Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164047Z
+DTSTAMP:20261112T150358Z
 CREATED:20260708T150358Z
-LAST-MODIFIED:20261111T164047Z
+LAST-MODIFIED:20261112T150358Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1257,9 +1246,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  s://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender 
  entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164055Z
+DTSTAMP:20261112T150406Z
 CREATED:20260708T150405Z
-LAST-MODIFIED:20261111T164055Z
+LAST-MODIFIED:20261112T150406Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1281,9 +1270,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  ttps://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalend
  er entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164103Z
+DTSTAMP:20261112T150411Z
 CREATED:20260708T150410Z
-LAST-MODIFIED:20261111T164103Z
+LAST-MODIFIED:20261112T150411Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1305,9 +1294,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  ://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender e
  ntfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164111Z
+DTSTAMP:20261112T150417Z
 CREATED:20260708T150414Z
-LAST-MODIFIED:20261111T164111Z
+LAST-MODIFIED:20261112T150417Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1329,9 +1318,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalen
  der entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164118Z
+DTSTAMP:20261112T150422Z
 CREATED:20260708T150419Z
-LAST-MODIFIED:20261111T164118Z
+LAST-MODIFIED:20261112T150422Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1353,9 +1342,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  w.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender entfer
  nen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164124Z
+DTSTAMP:20261112T150429Z
 CREATED:20260708T150424Z
-LAST-MODIFIED:20261111T164124Z
+LAST-MODIFIED:20261112T150429Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1377,9 +1366,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  : https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kal
  ender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164126Z
+DTSTAMP:20261112T150431Z
 CREATED:20260708T150425Z
-LAST-MODIFIED:20261111T164126Z
+LAST-MODIFIED:20261112T150431Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1402,9 +1391,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kalender entf
  ernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164133Z
+DTSTAMP:20261112T150437Z
 CREATED:20260708T150431Z
-LAST-MODIFIED:20261111T164133Z
+LAST-MODIFIED:20261112T150437Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1426,9 +1415,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
   https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo Kale
  nder entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164139Z
+DTSTAMP:20261112T150441Z
 CREATED:20260708T150435Z
-LAST-MODIFIED:20261111T164139Z
+LAST-MODIFIED:20261112T150441Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
@@ -1450,9 +1439,9 @@ DESCRIPTION:Dieser Kalenderservice wird dir präsentiert von bundesliga.de\
  sum: https://www.bundesliga.com/de/bundesliga/info/impressum/\n\n\ncalovo 
  Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-DTSTAMP:20261111T164144Z
+DTSTAMP:20261112T150445Z
 CREATED:20260708T150439Z
-LAST-MODIFIED:20261111T164144Z
+LAST-MODIFIED:20261112T150445Z
 BEGIN:VALARM
 TRIGGER:-P0DT1H0M0S
 ACTION:DISPLAY
