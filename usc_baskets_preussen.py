@@ -412,7 +412,11 @@ orte = sorted([o for o in df_all["Ort"].dropna().unique() if "münster" in o.low
 teams = sorted(set(t for team in df_all["USC_Team"].dropna() for t in team.split("/")))
 usc_team_codes = [team for team in teams if team.startswith("USC")]
 wochen = sorted(
-    {(row["Woche_Start"], row["Woche_Label"]) for _, row in df_all.iterrows()},
+    {
+        (row["Woche_Start"], row["Woche_Label"])
+        for _, row in df_all.iterrows()
+        if pd.notna(row["Woche_Start"])
+    },
     key=lambda x: x[0],
 )
 
